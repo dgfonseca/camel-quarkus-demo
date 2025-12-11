@@ -109,7 +109,7 @@ The service automatically:
 └──────┬──────────────┘
        │
        ▼
-┌─────────────────────┐
+┌──────────────────────┐
 │  AMQProducerRoute    │  ← Publishes to AMQ queue
 └──────┬───────────────┘
        │
